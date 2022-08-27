@@ -3,10 +3,10 @@
 
 
 <!--intRO name  -->
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/the-arshad-khan/" target="_blank"> Arshad Khan </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/satvik-mittal/" target="_blank"> Satvik Mittal </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <img width="40%" align="right"   src="code.gif" >
 
-A Small Introduction of  Myself, I am <b>Arshad Khan</b> pursuing <b>Computer Science Degree</b> from Eshan College of Engineering, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
+A Small Introduction of  Myself, I am <b>Satvik Mittal</b> pursuing <b>Computer Science undergraduate Degree</b> from Eshan College of Engineering, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
 
 <h3 align="center">A Passionate Frontend-Web Developer | Artifical Intelligence enthusiast | Researcher </h3>
 
@@ -67,9 +67,9 @@ Recently I have started a Community <b> TECHBENCHERS </b>to help fellow mates.Jo
 <div align="center">
 
 
-<a  href="https://www.linkedin.com/in/the-arshad-khan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/isolated_banda" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:4472arshadkhan@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://www.linkedin.com/in/satvik-mittal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/satvik_mittal" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto: mittalsatvik468@gmail.com@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </div>
 
@@ -82,10 +82,10 @@ Recently I have started a Community <b> TECHBENCHERS </b>to help fellow mates.Jo
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Arshad-Khan&theme=dark" alt="The-Arshad-Khan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satvikmitt&theme=dark" alt="The-Arshad-Khan" /></p>
   </div>
 
- [![The-Arshad-Khan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=The-Arshad-Khan&theme=xcode)](https://git.io/The-Arshad-Khan)
+ [![The-Arshad-Khan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Satvikmitt&theme=xcode)](https://git.io/The-Arshad-Khan)
 
 <a href="https://github.com/The-Arshad-Khan?tab=followers"><img src="https://img.shields.io/github/followers/The-Arshad-Khan?label=Followers&style=social" alt="GitHub Badge"></a>
 
