@@ -54,7 +54,6 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript. I 
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [My Portfolio Website](https://the-arshad-khan.github.io/AK-PP/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
-| [Elearn Website -bigB](https://the-shivam-garg.github.io/BigB-E-learn-Websit-e/)   | This is a Elearn Website which has all material related to education whether it's of Univeristy or Universe    | issued.© 2021 Arshad Khan.
 
 
 
