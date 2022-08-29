@@ -4,7 +4,7 @@
 
 <!--intRO name  -->
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/satvik-mittal/" target="_blank"> Satvik Mittal </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<img width="40%" align="right"   src="code.gif" >
+<img width="40%" align="right"   src="M.mp4" >
 
 A Small Introduction of  Myself, I am <b>Satvik Mittal</b> pursuing <b>Computer Science undergraduate Degree</b> from Eshan College of Engineering, Currently in my Second-Year of Diploma. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
 
